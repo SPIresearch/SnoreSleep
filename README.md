@@ -1,6 +1,8 @@
-# Contactless OSAHS Respiration and Sleep Stage Classification using Monitored Snore Events with Heterogeneous Multiscale Selective Distillation for IoMT
 
-## SnoreSleep
+
+# SnoreSleep
+
+## Contactless OSAHS Respiration and Sleep Stage Classification using Monitored Snore Events with Heterogeneous Multiscale Selective Distillation for IoMT
 
 This repository contains the implementation of our paper.
 
