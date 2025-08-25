@@ -1,14 +1,12 @@
 # SnoreSleep
 
-## Paper
-Contactless OSAHS Respiration and Sleep Stage Classification using  
-Monitored Snore Events with Heterogeneous Multiscale Selective Distillation for IoMT
+<p align="center">
+  <i>Contactless OSAHS Respiration and Sleep Stage Classification using Monitored Snore Events with Heterogeneous Multiscale Selective Distillation for IoMT</i>
+</p>
 
 This repository contains the implementation of our paper.
 
 ## Status
-| Item   | Status |
-|--------|--------------------------------------------|
-| Code   | Core implementation under preparation      |
-| Data   | Waiting for ethical approval from committee|
-| Models | To be released after approval              |
+- 📦 Code: Core implementation under preparation  
+- 📊 Data: Snore event dataset and annotations are waiting for ethical approval from the committee  
+- 🤖 Models: Lightweight distilled models will be released after approval  
