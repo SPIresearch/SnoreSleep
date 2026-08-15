@@ -12,7 +12,7 @@ This is the official project page for the IEEE Internet of Things Journal (IoTJ)
 
 <p align="center">
   <em>
-  Overview of the snore-based sleep monitoring system for IoMT.
+  Snore-based sleep monitoring system for IoMT.
   (a) Data sources: contactless snoring events for inference; NaA and EEG as gold-standard signals.
   (b) Model distillation: heterogeneous physiological knowledge is distilled into snoring event classification models.
   (c) Output tasks: the models enable accurate, contactless, snore-only inference for OSAHS respiration and sleep stage classification tasks.
