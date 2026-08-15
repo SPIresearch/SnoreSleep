@@ -7,7 +7,7 @@ This is the official project page for the IEEE Internet of Things Journal (IoTJ)
 ## Overview
 
 <p align="center">
-  <img src="overview.png" width="95%">
+  <img src="overview.png" width="65%">
 </p>
 
 <p align="center">
